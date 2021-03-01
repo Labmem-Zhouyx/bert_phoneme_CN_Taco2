@@ -1,0 +1,31 @@
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009970.npy|据悉奥巴马一家人对这座冬季白宫极为满意|ju4 xi1 ao4 ba1 ma3 yi4 jia1 ren2 dui4 zhe4 zuo4 dong1 ji4 bai2 gong1 ji2 wei2 man3 yi4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009971.npy|打扫完你会很有成就感的试一试你就信了|da2 sao3 wan2 ni3 hui4 hen2 you3 cheng2 jiu4 gan3 de5 shi4 yi2 shi4 ni3 jiu4 xin4 le5
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009972.npy|诺曼站在滑板车上各就各位准备出发啦|nuo4 man4 zhan4 zai4 hua2 ban3 che1 shang4 ge4 jiu4 ge4 wei4 zhun3 bei4 chu1 fa1 la5
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009973.npy|塔河的寒夜气温降到了零下三十多摄氏度|ta3 he2 de5 han2 ye4 qi4 wen1 jiang4 dao4 le5 ling2 xia4 san1 shi5 duo1 she4 shi4 du4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009974.npy|其间连破六点六六点五六点四六点三五等多个重要关口|qi2 jian1 lian2 po4 liu4 dian3 liu4 liu4 dian2 wu3 liu4 dian3 si4 liu4 dian3 san1 wu2 deng3 duo1 ge4 zhong4 yao4 guan1 kou3
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009975.npy|算命其实只是人们的一种自我安慰和自我暗示而已我们还是要相信科学才好|suan4 ming4 qi2 shi2 zhi3 shi4 ren2 men5 de5 yi4 zhong3 zi4 wo3 an1 wei4 he2 zi4 wo3 an4 shi4 er2 yi3 wo3 men5 hai2 shi4 yao4 xiang1 xin4 ke1 xue2 cai2 hao3
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009976.npy|这一切都令人欢欣鼓舞阿讷西没理由不坚持到最后|zhe4 yi2 qie4 dou1 ling4 ren2 huan1 xin1 gu2 wu3 a1 ne4 xi1 mei2 li3 you2 bu4 jian1 chi2 dao4 zui4 hou4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009977.npy|直至公元前一万一千年它又再次出现|zhi2 zhi4 gong1 yuan2 qian2 yi2 wan4 yi4 qian1 nian2 ta1 you4 zai4 ci4 chu1 xian4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009978.npy|尽量少玩电脑少看电视少打游戏|jin3 liang4 shao3 wan2 dian4 nao3 shao3 kan4 dian4 shi4 shao2 da3 you2 xi4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009979.npy|从五到七前后也就是六个月的时间|cong2 wu3 dao4 qi1 qian2 hou4 ye3 jiu4 shi4 liu4 ge5 yue4 de5 shi2 jian1
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009980.npy|一进咖啡店他就遇见一张熟悉的脸|yi2 jin4 ka1 fei1 dian4 ta1 jiu4 yu4 jian4 yi4 zhang1 shu2 xi5 de5 lian3
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009981.npy|好在众弟兄看到了把她追了回来|hao3 zai4 zhong4 di4 xiong5 kan4 dao4 le5 ba3 ta1 zhui1 le5 hui2 lai2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009982.npy|有一个人说哥们我们跑过它才能活|you3 yi2 ge4 ren2 shuo1 ge1 menr5 wo3 men2 pao3 guo4 ta1 cai2 neng2 huo2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009983.npy|捅了她以后模糊记得她没咋动了|tong3 le5 ta1 yi3 hou4 mo2 hu1 ji4 de5 ta1 mei2 za3 dong4 le5
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009984.npy|从小到大葛启义没有收到过压岁钱|cong2 xiao3 dao4 da4 ge2 qi3 yi4 mei2 you3 shou1 dao4 guo4 ya1 sui4 qian2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009985.npy|舞台下的你会对舞台上的你说什么|wu3 tai2 xia4 de5 ni3 hui4 dui4 wu3 tai2 shang4 de5 ni3 shuo1 shen2 me5
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009986.npy|但考生普遍认为试题的怪多过难|dan4 kao3 sheng1 pu3 bian4 ren4 wei2 shi4 ti2 de5 guai4 duo1 guo4 nan2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009987.npy|我希望每个人都能够尊重我们的隐私|wo3 xi1 wang4 mei3 ge4 ren2 dou1 neng2 gou4 zun1 zhong4 wo3 men5 de5 yin3 si1
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009988.npy|漫天的红霞使劲给两人增添气氛|man4 tian1 de5 hong2 xia2 shi3 jin4 gei2 liang3 ren2 zeng1 tian1 qi4 fen1
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009989.npy|晚上加完班开车回家太累了迷迷糊糊开着车走一半的时候铛一声|wan3 shang4 jia1 wan2 ban1 kai1 che1 hui2 jia1 tai4 lei4 le5 mi2 mi5 hu1 hu1 kai1 zhe5 che1 zou3 yi2 ban4 de5 shi2 hou4 dang1 yi4 sheng1
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009990.npy|该车将三人撞倒后在大雾中逃窜|gai1 che1 jiang1 san1 ren2 zhuang4 dao3 hou4 zai4 da4 wu4 zhong1 tao2 cuan4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009991.npy|这人一哆嗦方向盘也把不稳了差点撞上了高速边道护栏|zhe4 ren2 yi4 duo1 suo5 fang1 xiang4 pan2 ye2 ba3 bu4 wen3 le5 cha4 dian3 zhuang4 shang4 le5 gao1 su4 bian1 dao4 hu4 lan2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009992.npy|那女孩委屈的说我一回头见你已经进去了我不敢进去啊|na4 nv3 hair2 wei3 qu1 de5 shuo1 wo3 yi4 hui2 tou2 jian4 ni2 yi3 jing1 jin4 qu4 le5 wo3 bu4 gan3 jin4 qu4 a5
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009993.npy|小明摇摇头说不是我只是美女看多了想换个口味而已|xiao3 ming2 yao2 yao2 tou2 shuo1 bu2 shi4 wo2 zhi3 shi4 mei2 nv3 kan4 duo1 le5 xiang3 huan4 ge5 kou3 wei4 er2 yi3
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009994.npy|接下来红娘要求记者交费记者表示不知表姐身份证号码|jie1 xia4 lai2 hong2 niang2 yao1 qiu2 ji4 zhe3 jiao1 fei4 ji4 zhe2 biao3 shi4 bu4 zhi1 biao2 jie3 shen1 fen4 zheng4 hao4 ma3
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009995.npy|李东蓊表示自己当时在法庭上发表了一次独特的公诉意见|li3 dong1 weng2 biao3 shi4 zi4 ji3 dang1 shi2 zai4 fa3 ting2 shang4 fa1 biao3 le5 yi2 ci4 du2 te4 de5 gong1 su4 yi4 jian4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009996.npy|另一男子扑了上来手里拿着明晃晃的长刀向他胸口直刺|ling4 yi4 nan2 zi3 pu1 le5 shang4 lai5 shou2 li3 na2 zhe5 ming2 huang4 huang4 de5 chang2 dao1 xiang4 ta1 xiong1 kou3 zhi2 ci4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009997.npy|今天快递员拿着一个快递在办公室喊秦王是哪个有他快递|jin1 tian1 kuai4 di4 yuan2 na2 zhe5 yi2 ge4 kuai4 di4 zai4 ban4 gong1 shi4 han3 qin2 wang2 shi4 na3 ge4 you3 ta1 kuai4 di4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009998.npy|这场抗议活动究竟是如何发展演变的又究竟是谁伤害了谁|zhe4 chang3 kang4 yi4 huo2 dong4 jiu1 jing4 shi4 ru2 he2 fa1 zhan2 yan3 bian4 de5 you4 jiu1 jing4 shi4 shui2 shang1 hai4 le5 shui2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009999.npy|因华国锋肖鸡墓地设计根据其属相设计|yin1 hua4 guo2 feng1 xiao4 ji1 mu4 di4 she4 ji4 gen1 ju4 qi2 shu3 xiang4 she4 ji4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-010000.npy|在狱中张明宝悔恨交加写了一份忏悔书|zai4 yu4 zhong1 zhang1 ming2 bao2 hui3 hen4 jiao1 jia1 xie3 le5 yi2 fen4 chan4 hui3 shu1

@@ -1,0 +1,15 @@
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009955.npy|卡扎菲部落式统治已遭遇部落内讧|ka3 zha1 fei1 bu4 luo4 shi4 tong3 zhi4 yi3 zao1 yu4 bu4 luo4 nei4 hong4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009956.npy|这个孩子的生命一半来源于另一位女士捐赠的冷冻卵子|zhe4 ge4 hai2 zi5 de5 sheng1 ming4 yi2 ban4 lai2 yuan2 yu2 ling4 yi2 wei4 nv3 shi4 juan1 zeng4 de5 leng3 dong4 luan2 zi3
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009957.npy|出现这种泥鳅内阁的局面既是野田有意为之也实属无奈|chu1 xian4 zhe4 zhong3 ni2 qiu5 nei4 ge2 de5 ju2 mian4 ji4 shi4 ye3 tian2 you3 yi4 wei2 zhi1 ye3 shi2 shu3 wu2 nai4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009958.npy|济青高速济南华山章丘邹平周村淄博临淄站|ji3 qing1 gao1 su4 ji3 nan2 hua4 shan1 zhang1 qiu1 zou1 ping2 zhou1 cun1 zi1 bo2 lin2 zi1 zhan4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009959.npy|赵凌飞的话反映了沈阳赛区所有奥运志愿者的共同心声|zhao4 ling2 fei1 de5 hua4 fan3 ying4 le5 shen3 yang2 sai4 qu1 suo2 you3 ao4 yun4 zhi4 yuan4 zhe3 de5 gong4 tong2 xin1 sheng1
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009960.npy|因为我们所发出的力量必会因难度加大而减弱|yin1 wei4 wo3 men5 suo3 fa1 chu1 de5 li4 liang4 bi4 hui4 yin1 nan2 du4 jia1 da4 er2 jian3 ruo4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009961.npy|发生事故的楼梯拐角处仍可看到血迹|fa1 sheng1 shi4 gu4 de5 lou2 ti1 guai2 jiao3 chu4 reng2 ke3 kan4 dao4 xue4 ji4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009962.npy|想过进公安可能身高不够老汉也不让我进去|xiang3 guo4 jin4 gong1 an1 ke3 neng2 shen1 gao1 bu2 gou4 lao3 hanr4 ye3 bu2 rang4 wo3 jin4 qu4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009963.npy|路上关卡很多为了方便撤离只好轻装前进|lu4 shang4 guan1 qia2 hen3 duo1 wei4 le5 fang1 bian4 che4 li2 zhi2 hao3 qing1 zhuang1 qian2 jin4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009964.npy|原来比尔盖茨就是美国微软公司联合创始人呀|yuan2 lai2 bi2 er3 gai4 ci2 jiu4 shi4 mei3 guo2 wei1 ruan3 gong1 si1 lian2 he2 chuang4 shi3 ren2 ya5
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009965.npy|之后他们一家三口将与双方父母往峇里岛旅游|zhi1 hou4 ta1 men5 yi4 jia1 san1 kou3 jiang1 yu3 shuang1 fang1 fu4 mu3 wang3 ke4 li2 dao3 lv3 you2
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009966.npy|谢谢总理也感谢广大网友的参与我们明年再见|xie4 xie5 zong2 li3 ye2 gan3 xie4 guang3 da4 wang2 you3 de5 can1 yu4 wo3 men5 ming2 nian2 zai4 jian4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009967.npy|事实上是从来没有一个欺善怕恶的人能作出过稍大一点的成就|shi4 shi2 shang4 shi4 cong2 lai2 mei2 you3 yi2 ge4 qi1 shan4 pa4 e4 de5 ren2 neng2 zuo4 chu1 guo4 shao1 da4 yi4 dian3 de5 cheng2 jiu4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009968.npy|我会打开邮件你可以从那里继续|wo3 hui4 da3 kai1 you2 jian4 ni3 ke2 yi3 cong2 na4 li3 ji4 xu4
+/ceph/home/zhouyx20/data/BZNSYP_training_data/mels/mel-009969.npy|美方对近期东海局势表示关切|mei3 fang1 dui4 jin4 qi1 dong1 hai3 ju2 shi4 biao3 shi4 guan1 qie4
